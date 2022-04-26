@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Vinicyus Marques",
+            "cpf": "44569856899",
+            "email": "vini@teste.com",
+            "whatsapp": "11944444444",
+            "address": {
+                "postalcode": "04534011",
+                "street": "Rua Joaquim Floriano",
+                "number": "15",
+                "details": "Apt22",
+                "district": "Itaim Bibi",
+                "city_state": "São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "invalid_cpf": {
+        "name": "João Paulo",
+        "cpf": "045AAA56x99",
+        "email": "joao@invalidcpf.com",
+        "whatsapp": "11944444444",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "15",
+            "details": "Apt22",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "invalid_email": {
+        "name": "Talita Paula",
+        "cpf": "44125896998",
+        "email": "talita.com.br",
+        "whatsapp": "11944444444",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "15",
+            "details": "Apt22",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
