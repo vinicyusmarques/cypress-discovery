@@ -3,12 +3,6 @@ import signup from '../pages/SignupPage'
 import signupFactory from '../factories/SignupFactory'
 
 describe('Register', () => {
-
-    // beforeEach(function() {
-    //     cy.fixture("deliver").then((d) => {
-    //         this.deliver = d
-    //     })
-    // })
     it('User should be deliver', function(){
 
         var deliver = signupFactory.deliver()
