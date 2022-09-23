@@ -59,7 +59,7 @@ describe('Register', () => {
             })
         })
     })
-
+    // teste
     it('Required Fields', function() {
         signup.go()
         signup.submit()
